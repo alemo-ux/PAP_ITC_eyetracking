@@ -1,0 +1,7 @@
+# Entorno aislado Python 3.11 de 64 bits
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+numpy==1.26.4
+Pillow>=10.4,<12
+mss>=9,<11
+pynput>=1.7.7,<2
