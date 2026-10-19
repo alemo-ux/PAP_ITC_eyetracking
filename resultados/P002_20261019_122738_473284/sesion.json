@@ -1,0 +1,18 @@
+{
+  "participante": "P002",
+  "creada_utc": "2026-10-19T18:27:38.474286+00:00",
+  "monitor": {
+    "left": 0,
+    "top": 0,
+    "width": 2400,
+    "height": 1600,
+    "is_primary": true,
+    "name": "Surface Panel",
+    "unique_id": "\\\\?\\DISPLAY#SHP1509#4&218c0622&0&UID8388688#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
+  },
+  "python": "3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]",
+  "mediapipe": "0.10.21",
+  "opencv": "4.11.0",
+  "metodo": "ridge lineal experimental; sin clasificación de fijaciones",
+  "camera_index": 0
+}
